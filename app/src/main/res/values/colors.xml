@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="amarillo_duende">#FFC300</color>
+    <color name="verde_duende">#AACC00</color>
+    <color name="amarillo">#FFC300</color>
+    <color name="rojo_header">#FF595E</color>
+    <color name="azul_user_data">#007A7A</color>
+    <color name="purpura_text_highlight">#653AB5</color>
+    <color name="rojo_menu_boton">#FD585D</color>
+    <color name="verde_suave">#90EE90</color>
+    <color name="azul_claro">#ADD8E6</color>
+    <color name="amarillo_pastel">#FFFACD</color>
+</resources>

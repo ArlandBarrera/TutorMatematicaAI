@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tutor Matematica AI</string>
+    <string name="Avatar">FotoUsuario</string>
+    <string name="hola_user_name">Hola, User Name</string>
+    <string name="Titulo">Matemáticas Divertidas con Tu Tutor Virtual!</string>
+    <string name="Operaciones_Basicas">Operaciones Basicas</string>
+    <string name="Titulo_operaciones_basicas">Operaciones Basicas</string>
+    <string name="temas">Temas</string>
+    <string name="level_99">Level 99</string>
+    <string name="text_chatgpt">Esperando</string>
+    <string name="button_respuesta">Button</string>
+</resources>
